@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Waldemar Goszka from Iława in Poland.
-- 👀 I’m interested in broadly understood problem solving. 
-- 🌱 I’m currently learning Java since 2022, actually continue course Zajavka.pl.
-- 💞️ I’m looking to collaborate with Java developers willing to pass on knowledge to me.
+- 👀 I’m interestedin looking for a job as a backend developer. 
+- 🌱 I’m currently programming since 2022, Currently, I am a contributor to the Shelter web application project using PHP technology in Inkubator Technologiczny in Iława.
+- 💞️ I’m looking to collaborate with developers willing to pass on knowledge to me.
 - 📫 How to reach me **goszka.waldemar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
