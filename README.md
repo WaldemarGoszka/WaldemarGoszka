@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate with developers willing to pass on knowledge to me.
 - 📫 How to reach me **goszka.waldemar@gmail.com**
 
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
